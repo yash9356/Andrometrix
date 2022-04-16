@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Courses"
+            android:icon="@drawable/courses3"
+            android:title="Courses" />
+        <item
+            android:id="@+id/Query"
+            android:icon="@drawable/query_question_img"
+            android:title="Query" />
+        <item
+            android:id="@+id/Documentation"
+            android:icon="@drawable/document"
+            android:title="Documentation" />
+        <item
+            android:id="@+id/Video_resource"
+            android:icon="@drawable/video"
+            android:title="Videos explain" />
+        <item
+            android:id="@+id/Img_rersource"
+            android:icon="@drawable/imagegallery"
+            android:title="Image Resources" />
+        <item
+            android:id="@+id/Sample_Code"
+            android:icon="@drawable/apk"
+            android:title="Sample Code"/>
+        <item
+            android:id="@+id/Buy_app"
+            android:icon="@drawable/buy"
+            android:title="Buy app" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/Contact_Us"
+                android:icon="@drawable/ic_contact_mail"
+                android:title="Contact us" />
+        </menu>
+    </item>
+</menu>

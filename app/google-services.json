@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740674479102",
+    "project_id": "andrometrix-lite-test",
+    "storage_bucket": "andrometrix-lite-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740674479102:android:05b003c0afa0001ea856af",
+        "android_client_info": {
+          "package_name": "com.example.andrometrixlite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740674479102-7pi9ujciibnf6o54msbln1qiumddgthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ2glkxzBTFy8jj9svBZe-Y5U5jLIFt8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740674479102-7pi9ujciibnf6o54msbln1qiumddgthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

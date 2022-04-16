@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:layout_marginTop="20dp"
+    android:background="@color/cardview_dark_background"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_medium"
+        android:text="Android Developer"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/User_profile_img"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="118dp"
+        android:background="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/User_profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:fontFamily="@font/montserrat_regular"
+        android:text="Username"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/User_profile_gmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/montserrat_regular"
+        android:text="User@gmail.com"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+</LinearLayout>

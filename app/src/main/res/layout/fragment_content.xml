@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CreateProject.FragmentContent">
+
+   <FrameLayout
+       android:layout_width="match_parent"
+       android:layout_height="300dp">
+
+       <ImageView
+           android:id="@+id/icon"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:src="@drawable/browser_web"/>
+
+   </FrameLayout>
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center_horizontal"
+        android:padding="10dp"
+        android:text="content"
+        android:textSize="20dp"
+        android:textColor="@color/black"/>
+</LinearLayout>

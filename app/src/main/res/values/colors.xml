@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="projectBlue">#2955FF</color>
+    <color name="projectDarkBlue">#0235F8</color>
+    <color name="ProjectSkyBlue">#51CCEE</color>
+
+    #Color Pallet UI101
+    <color name="Background_Faint_grey">#f1f2f4</color>
+    <color name="Sky_blue">#4e85d7</color>
+    <color name="Light_blue">#92a7c6</color>
+    <color name="Dark_Light_grey">#7c7c81</color>
+    <color name="Light_light_grey">#848484</color>
+
+    <color name="dividerColor">#00574B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#CC4F6CFA</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="SkyBlue">#3EC3FA</color>
+    <color name="Blue">#4F69FD</color>
+    <color name="DarkBlue">#2143FF</color>
+    <color name="DarkSkyBlue">#01B5FF</color>
+    <color name="brown1">#E8E6E6</color>
+    <color name="brown">#C4C4C4</color>
+    <color name="Black">#0B0000</color>
+    <color name="green">#8AFB07</color>
+    <color name="voilet">#673AB7</color>
+    <color name="lightvoilet">#784EC3</color>
+    <color name="pink">#FF14FA</color>
+    <color name="golden">#FBE203</color>
+    <color name="Rage">#4D015A</color>
+    <color name="thor">#F44336</color>
+    <color name="lightBlue">#00539A</color>
+    <color name="lightBlue1">#C43EAAFF</color>
+    <color name="green1">#038DFB</color>
+    <color name="orange">#FF920D</color>
+    <color name="orange1">#FFA500 </color>
+<!--    Card color-->
+    <color name="orangeCard">#FF9A76</color>
+    <color name="lightorangeCard">#FB9C74</color>
+    <color name="crimcolor">#FFEADB</color>
+    <color name="BlueCard">#679B9B</color>
+
+    <color name="colorAccent_Light">#F50057</color>
+    <color name="background_Light">#FDFDFE</color>
+    <color name="Background_Light_S">#ECECEC</color>
+    <color name="Titele_A_Light">#161616</color>
+    <color name="Titele_AA_Light">#6D6D6D</color>
+    <color name="Boder_Light">#1A0C1318</color>
+
+    <!--Night Mode Color-->
+    <color name="colorAccent_Night">#F50057</color>
+    <color name="background_Night">#000000</color>
+    <color name="Background_Night_S">#121212</color>
+    <color name="Titele_A_Night">#DBDBDB</color>
+    <color name="Titele_AA_Night">#E9A0A0A0</color>
+    <color name="Boder_Night">#191919</color>
+
+
+
+    <color name="blue_500">#FF2196F3</color>
+    <color name="yellow">#FDBE3B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTextHint">#7B7B7B</color>
+    <color name="colorDefaultNoteColor">#333333</color>
+    <color name="colorNoteSubTitleText">#Fafafa</color>
+    <color name="colorNoteColor2">#fdbe3b</color>
+    <color name="colorNoteColor3">#E040FB</color>
+    <color name="colorNoteColor4">#3a52fc</color>
+    <color name="colorNoteColor5">#F50057</color>
+    <color name="colorNoteColor6">#00E676</color>
+    <color name="colorNoteColor7">#FF3D00</color>
+    <color name="colorDelete">#ff4842</color>
+
+
+    <color name="circle_lock_screen_pf">#EE5555</color>
+    <color name="background_lock_screen_pf">#663333</color>
+    <color name="code_lock_screen_pf">#000000</color>
+    <color name="white_selector_pf">#66000000</color>
+    <color name="hint_color">#42000000</color>
+    <color name="warning_color">#f4511e</color>
+    <color name="success_color">#009688</color>
+
+    <color name="DarkOrange">#CC2805</color>
+    <color name="DarkOrange1">#FF8C00</color>
+    <color name="Green">#08850D</color>
+    <color name="NavyBlue">#3c415e</color>
+    <color name="White105">#4690AF</color>
+    <color name="light_pink">#F3427E</color>
+    <color name="water">#CB6CDC</color>
+    <color name="green2">#03FDE8</color>
+</resources>

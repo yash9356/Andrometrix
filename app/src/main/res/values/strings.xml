@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Andrometrix Lite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="todo">Todo</string>
+    <string name="todo_error">Please enter a Todo</string>
+    <string name="date_reminder_default">Today</string>
+    <string name="date_error_check_again">The date you entered is in the past.</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="night_mode_on_summary">Night mode is on</string>
+    <string name="night_mode_off_summary">Night mode is off</string>
+    <string name="description">Description</string>
+    <string name="remind_date_and_time">Reminder set for %1$s, %2$s %3$s</string>
+    <string name="hyperlink1"><a href="https://developer.android.com/studio/install.html"> install Android Studio.</a></string>
+    <string name="hyperlink"><a href="https://developer.android.com/studio/">Android Studio download page</a></string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="help_protect_your_website_and_its_users_with_clear_and_fair_website_terms_and_conditions_these_terms_and_conditions_for_a_website_set_out_key_issues_such_as_acceptable_use_privacy_cookies_registration_and_passwords_intellectual_property_links_to_other_sites_termination_and_disclaimers_of_responsibility_terms_and_conditions_are_used_and_necessary_to_protect_a_website_owner_from_liability_of_a_user_relying_on_the_information_or_the_goods_provided_from_the_site_then_suffering_a_loss_making_your_own_terms_and_conditions_for_your_website_is_hard_not_impossible_to_do_it_can_take_a_few_hours_to_few_days_for_a_person_with_no_legal_background_to_make_but_worry_no_more_we_are_here_to_help_you_out_all_you_need_to_do_is_fill_up_the_blank_spaces_and_then_you_will_receive_an_email_with_your_personalized_terms_and_conditions_n_you_are_specifically_restricted_from_all_of_the_following_publishing_any_website_material_in_any_other_media_selling_sublicensing_and_or_otherwise_commercializing_any_website_material_publicly_performing_and_or_showing_any_website_material_using_this_website_in_any_way_that_is_or_may_be_damaging_to_this_website_using_this_website_in_any_way_that_impacts_user_access_to_this_website_using_this_website_contrary_to_applicable_laws_and_regulations_or_in_any_way_may_cause_harm_to_the_website_or_to_any_person_or_business_entity_engaging_in_any_data_mining_data_harvesting_data_extracting_or_any_other_similar_activity_in_relation_to_this_website_using_this_website_to_engage_in_any_advertising_or_marketing">Help protect your website and its users with clear and fair website terms and conditions. These terms and conditions for a website set out key issues such as acceptable use, privacy, cookies, registration and passwords, intellectual property, links to other sites, termination and disclaimers of responsibility. Terms and conditions are used and necessary to protect a website owner from liability of a user relying on the information or the goods provided from the site then suffering a loss. Making your own terms and conditions for your website is hard, not impossible, to do. It can take a few hours to few days for a person with no legal background to make. But worry no more; we are here to help you out. All you need to do is fill up the blank spaces and then you will receive an email with your personalized terms and conditions.\n You are specifically restricted from all of the following: publishing any Website material in any other media; selling, sublicensing and/or otherwise commercializing any Website material; publicly performing and/or showing any Website material; using this Website in any way that is or may be damaging to this Website; using this Website in any way that impacts user access to this Website; using this Website contrary to applicable laws and regulations, or in any way may cause harm to the Website, or to any person or business entity; engaging in any data mining, data harvesting, data extracting or any other similar activity in relation to this Website; using this Website to engage in any advertising or marketing.</string>
+    <string name="upload_your_signature_here">Upload your Signature here</string>
+    <string name="choose_file">Choose File</string>
+    <string name="no_file_chosen">No file chosen</string>
+    <string name="agree_with_terms_n_amp_conditions"><![CDATA[Agree with Terms\n & Conditions]]></string>
+    <string name="logout">Logout</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="other_contact_number">Other Contact Number</string>
+    <string name="adress">Adress</string>
+    <string name="next">Next</string>
+    <string name="document_upload_form">Document Upload Form</string>
+    <string name="upload_your_adhaar_card_here">Upload your Adhaar Card here</string>
+    <string name="upload_your_pan_card_here">Upload your Pan Card here</string>
+    <string name="upload_your_pv_certificate_here">Upload your PV Certificate here</string>
+    <string name="upload_your_es_certificate_here">Upload your ES Certificate here</string>
+    <string name="individual">Individual</string>
+    <string name="group">Group</string>
+    <string name="number_of_peoples">Number of Peoples</string>
+    <string name="previous">Previous</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_the_mobile_number">We will send you an One Time Password on the mobile number</string>
+    <string name="_91">+91</string>
+    <string name="enter_the_otp_sent">Enter the OTP sent</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">sign up</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password ?</string>
+    <string name="login_with">Login with</string>
+    <string name="technologies">Technologies</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="algo">Algo</string>
+    <string name="zen">Zen</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="confirm_password">confirm password</string>
+</resources>
